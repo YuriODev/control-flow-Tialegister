@@ -3,17 +3,17 @@
 School_Grades=int(input())
 
 if School_Grades <= 3:
-  print( "Initial level ")
+  print( "initial level ")
 
 elif 3 < School_Grades <=6:
-  print("Average level")
+  print("average level")
 
 elif 6 < School_Grades <=9:
-  print("suffient level")
+  print("sufficient level")
 
 elif 9 < School_Grades <=12:
-  print("High level")
+  print("high level")
 
 else:
-  print("Level is absent")
+  print("level is absent")
 

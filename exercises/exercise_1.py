@@ -3,10 +3,10 @@
 Alex= int(input())
 Tatyana= int(input())
 if Alex > Tatyana:
-  print("Alex is the eldest")
+  print("Alex is the eldest.")
 
 elif Alex == Tatyana:
-  print("Alex and Tatyana are the same age")
+  print("Alex and Tatyana are the same age.")
 
 else:
-  print( "Tatyana is the eldest")
+  print( "Tatyana is the eldest.")
