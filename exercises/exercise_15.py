@@ -1,8 +1,8 @@
 # Your solution to Exercise 15
 
-day = int(input("Enter the day: "))
-month = int(input("Enter the month: "))
-year = int(input("Enter the year: "))
+day = int(input())
+month = int(input())
+year = int(input())
 
 if day == 31 and month in [1, 3, 5, 7, 8, 10, 12]:
     day = 1

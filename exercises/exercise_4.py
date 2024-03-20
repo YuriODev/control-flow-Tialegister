@@ -1,6 +1,6 @@
 # Your solution to Exercise 4
 
-School_Grades=int(input("Enter your grade: "))
+School_Grades=int(input())
 
 if School_Grades <= 3:
   print( "Initial level ")

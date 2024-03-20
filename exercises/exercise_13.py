@@ -3,6 +3,6 @@
 n = int(input())
 digits = set(str(n))
 if len(digits) == len(str(n)):
-    print("Yes")
+    print("True")
 else:
-    print("No")
+    print("False")

@@ -1,7 +1,7 @@
 # Your solution to Exercise 1
 
-Alex= input("Enter Alex's age: ")
-Tatyana= input("Enter Tatyana's age: ")
+Alex= int(input())
+Tatyana= int(input())
 if Alex > Tatyana:
   print("Alex is the eldest")
 

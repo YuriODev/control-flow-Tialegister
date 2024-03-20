@@ -1,9 +1,9 @@
 # Your solution to Exercise 16
 
 
-day = int(input("Enter the day: "))
-month = int(input("Enter the month: "))
-year = int(input("Enter the year: "))
+day = int(input())
+month = int(input())
+year = int(input())
 
 if day == 1:
     if month == 1:
